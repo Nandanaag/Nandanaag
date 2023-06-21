@@ -1,3 +1,6 @@
 point 4
 point 5
 point 6
+line 1
+line 2
+line 3
